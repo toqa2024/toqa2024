@@ -38,7 +38,7 @@ I enjoy turning ideas into working projects, learning new technologies, and writ
 
 ##  Featured Projects
 
-### 🩻 AI Chest X-Ray Analysis
+### AI Chest X-Ray Analysis
 An end-to-end Deep Learning research project for chest X-ray image analysis using lung segmentation, multi-class classification, and explainable AI.
 
 - **Technologies:** Python, PyTorch, U-Net, ResNet18, ResNet34, Grad-CAM
