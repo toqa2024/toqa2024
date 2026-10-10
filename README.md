@@ -46,11 +46,10 @@ I'm continuously learning, building, and exploring new ways to apply AI to real-
 
 ---
 
-###  Connect with me
 
-💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/toqa-abu-hamdan-a2306032b/)
+### 🤝 Let's Connect
 
-
+[Connect with me on LinkedIn 💼](https://www.linkedin.com/in/toqa-abu-hamdan-a2306032b/)
 
 ---
 
