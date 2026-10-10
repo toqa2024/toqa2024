@@ -53,4 +53,4 @@ I'm continuously learning, building, and exploring new ways to apply AI to real-
 
 ---
 
-*✨ Learning by building. Growing through challenges. Creating with AI.*
+* Learning by building. Growing through challenges. Creating with AI ✨.*
